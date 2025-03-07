@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/LjUPtx3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/ahmed-codepath-web102-project-1-demo-LjUPtx3
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
